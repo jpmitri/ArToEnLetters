@@ -1,0 +1,1 @@
+﻿String Path=Console.ReadLine()??throw new exeption;
